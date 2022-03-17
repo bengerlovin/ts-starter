@@ -1,0 +1,1 @@
+# TypeScript and Jest Starter Template
